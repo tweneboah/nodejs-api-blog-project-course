@@ -100,7 +100,7 @@ To run this project, you will need to add the following environment variables to
 
 `MONGODB_URL`
 
-##### baseURL `javascripthttps://blog-api-v3-inovotek.onrender.com/`
+##### baseURL = `https://blog-api-v3-inovotek.onrender.com/`
 
 # API Authentication
 
